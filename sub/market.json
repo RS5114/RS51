@@ -1,0 +1,14 @@
+[
+{"name":"推荐","list":[
+{"name":"电视-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk","icon":"https://cnb.cool/ms511/PG/-/git/raw/main/sub/fm.png","version":"v7a"},
+{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/mobile-armeabi_v7a.apk","icon":"https://cnb.cool/ms511/PG/-/git/raw/main/sub/fm.png","version":"v7a"}
+]},
+
+{"name":"蜂蜜影视","list":[
+{"name":"电视-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk","icon":"https://cnb.cool/ms511/PG/-/git/raw/main/sub/fm.png","version":"v7a"},
+{"name":"电视-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/leanback-arm64_v8a.apk","icon":"https://cnb.cool/ms511/PG/-/git/raw/main/sub/fm.png","version":"v8a"},
+{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/mobile-armeabi_v7a.apk","icon":"https://cnb.cool/ms511/PG/-/git/raw/main/sub/fm.png","version":"v7a"},
+{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/mobile-arm64_v8a.apk","icon":"https://cnb.cool/ms511/PG/-/git/raw/main/sub/fm.png","version":"v8a"}
+]}
+
+]
