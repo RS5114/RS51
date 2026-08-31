@@ -71,10 +71,13 @@
 {"key":"Ncat.py","name":"网飞猫┃[PY]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/Ncat.py"},
 {"key":"华数.py","name":"华数┃[PY]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/华数.py"},
 {"key":"华谊影视.py","name":"华谊┃[PY]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py"},
+{"key":"GZYS.py","name":"瓜子┃[PY]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/GZYS.py"},
+{"key":"SZYS.py","name":"山楂┃[PY]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/SZYS.py"}, 
 {"key":"libvio.py","name":"LIB┃[PY]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/libvio.py"},
 {"key":"OleLive.py","name":"欧乐┃[PY]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/OleLive.py"},
 
   
+
 
 {"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./sub/market.json"}
