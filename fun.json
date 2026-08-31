@@ -36,6 +36,7 @@
 "sites":[
 
 {"key":"XMVideo","name":"熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./sub/182.jar;md5;4b13c299ed9dfca65bc775507a7d0118"},
+{"key":"apiyutu","name":"【9kg】玉兔资源","type":0,"api":"http://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"souav","name":"souav|采集","type":1,"api":"https://api.souavzy.vip/api.php/provide/vod/?ac=list","playUrl":"https://jiexi.souavzyw.top/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_huangguo","name":"黄果短剧[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo.py","ext":""},
 {"key":"py_huangdou","name":"黄豆短剧[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangdou.py","ext":""},
@@ -94,7 +95,6 @@
 {"key":"beiyong.slapibf.com","name":"森林|资源","type":1,"api":"http://beiyong.slapibf.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["精品推荐","欧美精品","传媒出品","巨乳美乳","人妻熟女","强奸乱伦","国产色情","主播直播","亚洲无码","亚洲有码","中文字幕","萝莉少女","伦理三级","成人动漫","自拍偷拍","制服丝袜","口交颜射","日本精品","Cosplay","素人自拍","台湾辣妹","韩国御姐","唯美港姐","东南亚AV","欺辱凌辱","剧情介绍","多人多P","91探花","网红流出","野外露出","古装扮演","女优系列","可爱学生","风情旗袍","兽耳系列","瑜伽裤","闷骚护士","过膝袜网","曝门","女同性恋","男同性恋","恋腿狂魔"]},
 {"key":"xjzyapi.xyz","name":"新小鸡|资源","type":1,"api":"http://api.xjzyapi.xyz/provide/vod","searchable":1,"changeable":1,"categories":["欧美精选","日韩精选","国产精选","VR专区","性感网红","重口调教","厂牌经典","人兽","其他","强奸迷奸","网曝黑料","国产厂牌","丝袜制服","主播网红","AI换脸","乱伦","SM调教","群交多P","学生萝莉","自拍偷拍","口交自慰","国产三级","日韩AV","素人特摄","无码高清","经典有码","中文字幕","日韩三级","东南亚","阿拉伯","印巴拉丁","激情H漫","3D"]},
 
-{"key":"apiyutu","name":"【9kg】玉兔资源","type":0,"api":"http://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"155api","name":"【9kg】155资源","type":1,"api":"http://155api.com/api.php/provide/vod","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"apidanaizi","name":"【9kg】大奶子资源","type":1,"api":"http://apidanaizi.com/api.php/provide/vod","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"xingba222","name":"【9kg】杏吧资源","type":0,"api":"http://xingba222.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
