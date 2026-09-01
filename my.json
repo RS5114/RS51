@@ -84,10 +84,7 @@
 {"key":"华谊影视.py","name":"华谊┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py"},
 {"key":"GZYS.py","name":"瓜子┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/GZYS.py"},
 {"key":"SZYS.py","name":"山楂┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/SZYS.py"}, 
-{"key":"libvio","name":"LIB┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/libvio.py"},
-{"key":"OleLive.py","name":"欧乐┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/OleLive.py"},
-
-  
+{"key":"libvio","name":"LIB┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/libvio.py"},  
 
 
 {"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
