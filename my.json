@@ -73,6 +73,7 @@
 {"key":"aikanbot.py","name":"爱看机器人┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/aikanbot.py"},
 {"key":"mioaying影视.py","name":"喵影┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/mioaying影视.py"},
 {"key":"剧粑粑影视.py","name":"剧粑粑┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/剧粑粑影视.py"},
+{"key":"金牌影视.py","name":"金牌影视┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/金牌影视.py"},
 
 
 {"key":"TVB云播","name":"TVB云播┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py"},
