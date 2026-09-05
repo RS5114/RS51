@@ -1,5 +1,5 @@
 {
-"spider":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4",
+"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/pg.jar;md5;562b836d6f3251ee108a34f91987f3e4",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[
@@ -70,7 +70,7 @@
 {"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/market.json"},
 
-{"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"}
+{"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/lib/tokenm.json","jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"}
 
 ],
 
