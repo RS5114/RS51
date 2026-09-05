@@ -72,7 +72,7 @@
 
 
 {"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
-{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./sub/market.json"}
+{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/market.json"}
 
 ],
 
