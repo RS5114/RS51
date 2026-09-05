@@ -4,7 +4,8 @@
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[
 {"name":"【CNB__自制】","type":0,"url":"./sub/live.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
-{"name":"【咪咕__直播】","type":0,"url":"https://gitiptv.feifanlib.shop","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"【咪咕__直播】","type":0,"url":"https://gitiptv.feifanlib.shop","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},  
+{"name":"【Free-TV】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【四川__电信】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/组播_四川电信.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【四川__联通】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/组播_四川联通.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【四川__移动】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/组播_四川移动.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
