@@ -45,7 +45,7 @@
 {"key":"Ncat.py","name":"网飞猫┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/Ncat.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
 {"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
-{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./sub/market.json"},
+{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/market.json"},
 
 {"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"}
 
