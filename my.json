@@ -19,7 +19,7 @@
 ],
 
 "sites":[
-{"key":"Douban","name":"📀豆瓣📀","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
+{"key":"Douban","name":"📀豆瓣📀","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/lib/tokenm.json$$$https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/lib/douban.json"},
 
 {"key":"天天","name":"🧿┃天天┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"柠檬","name":"🍋┃柠檬┃秒播","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
@@ -69,7 +69,7 @@
 {"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/market.json"},
 
-{"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"}
+{"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"}
 
 ],
 
