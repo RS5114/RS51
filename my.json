@@ -21,7 +21,7 @@
 "sites":[
 {"key":"Douban","name":"📀豆瓣📀","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
 
-{"key":"天天","name":"⛅天天┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li","jar":"./sub/lh260315.jar;md5;f0da1869e7a46e57141d006aa70fe886"},
+{"key":"天天","name":"⛅天天┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li","ext": "http://v.rbotv.cn","jar":"./sub/lh260315.jar;md5;f0da1869e7a46e57141d006aa70fe886"},
 {"key":"橘皮","name":"🍊橘皮┃App","type":3,"api":"csp_Jpys","playerType":1,"jar":"./sub/lh260315.jar;md5;f0da1869e7a46e57141d006aa70fe886","ext":"7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"},
 {"key":"柠檬","name":"🍋柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1","jar":"./sub/lh260315.jar;md5;f0da1869e7a46e57141d006aa70fe886"},
 {"key":"剧评","name":"🎭剧评┃App","type":3,"api":"csp_Jpys","playerType":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l","jar":"./sub/lh260315.jar;md5;f0da1869e7a46e57141d006aa70fe886"},
