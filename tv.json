@@ -37,12 +37,10 @@
   
 {"key":"可可","name":"可可┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/kkys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"多多","name":"多多┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/duoduo.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
-{"key":"yunduo","name":"云朵┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/yunduo.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"xlys","name":"雪落┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"yangguang","name":"阳光┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/yangguang.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"qiyoudy","name":"奇优┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/qiyoudy.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"dsystv","name":"袋鼠┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/dsystv.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
-{"key":"maple.py","name":"枫叶┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/maple.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
 {"key":"TVB云播","name":"TVB云播┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"Didahd.py","name":"嘀嗒┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/Didahd.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
