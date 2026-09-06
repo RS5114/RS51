@@ -1,9 +1,9 @@
 {
-"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/pg.jar;md5;562b836d6f3251ee108a34f91987f3e4",
+"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/pg.jar;md5;562b836d6f3251ee108a34f91987f3e4",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[
-{"name":"【CNB__自制】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/live.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"【CNB__自制】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/live.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【咪咕__直播】","type":0,"url":"https://gitiptv.feifanlib.shop","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【Free-TV】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【四川__电信】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/组播_四川电信.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
@@ -21,12 +21,12 @@
 "sites":[
 {"key":"Douban","name":"📀豆瓣📀","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
 
-{"key":"天天","name":"🧿┃天天┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939791h1l3888jig44gi291li"},
-{"key":"柠檬","name":"🍋┃柠檬┃秒播","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
-{"key":"剧评","name":"🤪┃剧评┃影视","type":3,"api":"csp_Jpys","playerType":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
-{"key":"金牌APP","name":"🥇金牌┃App","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l","jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E"},
+{"key":"天天","name":"🧿┃天天┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939791h1l3888jig44gi291li"},
+{"key":"柠檬","name":"🍋┃柠檬┃秒播","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
+{"key":"剧评","name":"🤪┃剧评┃影视","type":3,"api":"csp_Jpys","playerType":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
+{"key":"金牌APP","name":"🥇金牌┃App","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l","jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E"},
 
-{"key":"极影","name":"⚡️┃极影┃[JS-RS5114]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/js/极影.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyun2.qijiyun.vip/api.php/app/"},
+{"key":"极影","name":"⚡️┃极影┃[JS-RS5114]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/js/极影.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyun2.qijiyun.vip/api.php/app/"},
 
 {"key":"戒js","name":"视界┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/jys.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"星河js","name":"星河┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/get.js","ext":{"host":"http://110.42.67.130:1226","key":"kj37zs29q22jk96t","init":"V122","api":2,"ua":"okhttp/3.10.0"},"searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
@@ -48,9 +48,9 @@
 {"key":"Ncat.py","name":"网飞猫┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/Ncat.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
 {"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
-{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/market.json"},
+{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/market.json"},
 
-{"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/lib/tokenm.json","jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"}
+{"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/lib/tokenm.json","jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"}
 
 
 ],
@@ -158,4 +158,3 @@
 "mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","iqiyi.hbuioo.com","vip.ffzyad.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","so.toutiao.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
 
 }
-
