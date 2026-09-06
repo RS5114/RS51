@@ -70,8 +70,6 @@
 {"key":"玉兔","name":"玉兔|采集","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","playUrl":"https://yutujx.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"ext":"proxy"},
 {"key":"森林专场","name":"森林|采集","type":1,"api":"https://slapibf.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"proxy"},
 
-{"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"},
-
 
 {"key":"apiyutu.com","name":"玉兔|资源","type":1,"api":"http://apiyutu.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["精品推荐","欧美情色","麻豆传媒","国产乱伦","强奸乱伦","国产人妻","国产SM","国产丝袜","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","三级伦理","卡通动漫","丝袜OL","自拍偷拍","日本片商","剧情介绍","网曝系列","同性恋","探花嫖娼","明星换脸"]},
 {"key":"danaizi.com","name":"大奶子|资源","type":1,"api":"http://apidanaizi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["欧美激情","中文字幕","国产乱伦","自拍偷拍","制服丝袜","网曝事件","传媒探花","清纯学生","国产主播","AV解说","淫妻作乐","港台辣妹","足浴撩妹","反差母狗","AI换脸","VR视角","重口性癖","制服诱惑","丝袜美腿","无码流出","多人群交","凌辱快感","角色剧情","强奸乱伦","韩国三级","人妻熟女","主奴调教","动漫卡通","变性伪娘","女同性恋","野外露出"]},
@@ -105,7 +103,11 @@
 {"key":"slapibf","name":"【9kg】森林资源","type":1,"api":"http://slapibf.com/api.php/provide/vod","searchable":1,"quickSearch":0,"filterable":1},
   
 {"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
-{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./sub/market.json"}
+{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./sub/market.json"},
+
+
+{"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"}
+
 
 ],
 
