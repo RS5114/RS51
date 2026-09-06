@@ -31,6 +31,8 @@
 {"key":"毒舌","name":"🐍毒舌┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/毒舌影视.js","jar":"./sub/YH260820.jpg;md5;367b30616fb382b237c4b9105e41d5f2","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"永乐","name":"🎼永乐┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/永乐视频.js","jar":"./sub/YH260820.jpg;md5;367b30616fb382b237c4b9105e41d5f2","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
+{"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"},
+  
 {"key":"戒js","name":"视界┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/jys.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"4Kvmjs","name":"四影┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/4Kvm.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"高清剧迷js","name":"剧迷┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/高清剧迷.js","ext":{"host":"http://110.42.67.130:1226","key":"kj37zs29q22jk96t","init":"V122","api":2,"ua":"okhttp/3.10.0"},"searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
@@ -63,9 +65,6 @@
 {"key":"华数.py","name":"华数┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/华数.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"华谊影视.py","name":"华谊┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"GZYS.py","name":"瓜子┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/GZYS.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
-
-{"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
-{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./sub/market.json"},
 
 
 {"key":"☀360zy.com","name":"360资源1","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","西部片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","泰国剧","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日韩动漫","现代都市","年代穿越","古装仙侠","女频恋爱","成长逆袭","NBA","足球","篮球"]},
@@ -211,7 +210,8 @@
 
 
 
-{"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"}
+{"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
+{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./sub/market.json"}
 
 ],
 
