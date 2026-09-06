@@ -38,7 +38,6 @@
 {"key":"高清剧迷js","name":"剧迷┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/高清剧迷.js","ext":{"host":"http://110.42.67.130:1226","key":"kj37zs29q22jk96t","init":"V122","api":2,"ua":"okhttp/3.10.0"},"searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"荐片js","name":"荐片┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/荐片.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"独播库","name":"独播库┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/VmOlRys8_vip.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
-
   
 {"key":"华数py","name":"华数┃[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/华数.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"央视py","name":"央视┃[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/央视.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
@@ -50,9 +49,6 @@
 {"key":"6v","name":"六微┃[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/6v.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"瓜子.py","name":"瓜子┃[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/瓜子.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
-
-
-  
 {"key":"金牌影视","name":"金牌┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/金牌.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"可可","name":"可可┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/kkys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"多多","name":"多多┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/duoduo.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
@@ -68,7 +64,6 @@
 {"key":"华数.py","name":"华数┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/华数.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"华谊影视.py","name":"华谊┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"GZYS.py","name":"瓜子┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/GZYS.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
-
 
 {"key":"Local","name":"本地硬盘","type":3,"api":"csp_Local"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./sub/market.json"},
