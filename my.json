@@ -35,6 +35,8 @@
 {"key":"戒js","name":"视界┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/jys.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"4Kvmjs","name":"四影┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/4Kvm.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"星河js","name":"星河┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/get.js","ext":{"host":"http://110.42.67.130:1226","key":"kj37zs29q22jk96t","init":"V122","api":2,"ua":"okhttp/3.10.0"},"searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"高清剧迷js","name":"剧迷┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/高清剧迷.js","ext":{"host":"http://110.42.67.130:1226","key":"kj37zs29q22jk96t","init":"V122","api":2,"ua":"okhttp/3.10.0"},"searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+
 {"key":"荐片js","name":"荐片┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/荐片.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"独播库","name":"独播库┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/VmOlRys8_vip.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"华数py","name":"华数┃[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/华数.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
@@ -46,6 +48,9 @@
 {"key":"两个BT","name":"两个BT┃[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/两个BT.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"6v","name":"六微┃[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/6v.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"瓜子.py","name":"瓜子┃[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/瓜子.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+
+
+
   
 {"key":"金牌影视","name":"金牌┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/金牌.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"可可","name":"可可┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/kkys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
