@@ -38,7 +38,7 @@
 {"key":"XMVideo","name":"熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./sub/182.jar;md5;4b13c299ed9dfca65bc775507a7d0118"},
 {"key":"apiyutu","name":"【9kg】玉兔资源","type":0,"api":"http://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
 
-{"key":"精品资源站","name":"精品|采集","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod/","ext":"proxy"},
+
 {"key":"souav","name":"souav|采集","type":1,"api":"https://api.souavzy.vip/api.php/provide/vod/?ac=list","playUrl":"https://jiexi.souavzyw.top/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_huangguo","name":"黄果短剧[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo.py","ext":""},
 {"key":"py_huangdou","name":"黄豆短剧[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangdou.py","ext":""},
