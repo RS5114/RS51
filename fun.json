@@ -62,16 +62,11 @@
 {"key":"色猫","name":"色猫|采集","type":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php","ext":"proxy"},
 {"key":"沙鱼","name":"沙鱼|采集","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","ext":"proxy"},
 {"key":"TGYunPan18pan","name":"TG|涩涩","searchable":1,"changeable":1,"type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"./lib/tokenm.json","json":"https://raw.githubusercontent.com/fish2018/lib/main/json/18pan.json","keywords":"名称,片名,推荐","channellist":"CosMM18,avpush,ribenseyuge1,cilitu,cctav,ppg1314,avab01,SeseAnime,AVnew,jpccav,PornXOS,CCCTAV","proxy":"noproxy","danmu":true}},
-{"key":"色播","name":"色播[js]","type":3,"api":"https://raw.githubusercontent.com/fish2018/lib/main/js/dr_py/js/sebo.js","searchable":1,"changeable":0},
-{"key":"XMVideo","name":"熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
 {"key":"玩偶","name":"玩偶姐姐","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"proxy"},
 {"key":"Zuise","name":"最色","type":3,"api":"csp_Zuise","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"proxy"},
 {"key":"csp_xBPQ_超清","name":"香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\",\"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\":\"href=\\\"/cq/Kplay&&.html\\\"\",\"链接前缀\":\"https://avhh.vip/cq/Kplay\",\"链接后缀\":\".html\",\"直接播放\":\"1\"}","jar":"https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"},
 {"key":"csp_xBPQ_聚优AV解说","name":"聚优AV解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExwRmRvQzB6bUdZek5GN1Ry.txt","jar":"https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"},
-{"key":"lav","name":"lav","type":3,"api":"https://raw.githubusercontent.com/fish2018/lib/main/py/py_lav.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"proxy"},
-{"key":"xhm","name":"xhm","type":3,"api":"https://raw.githubusercontent.com/fish2018/lib/main/py/py_Xhm.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"proxy"},
-{"key":"pornhub","name":"py_Phb","type":3,"api":"https://raw.githubusercontent.com/fish2018/lib/main/py/py_Phb.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"proxy"},
-{"key":"麻豆视频","name":"麻豆|采集","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"ext":"proxy"},
+
 {"key":"淫水机资源站","name":"水机|采集","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0,"ext":"proxy"},
 {"key":"香奶儿资源站","name":"香奶|采集","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0,"ext":"proxy"},
 {"key":"松视开通3","name":"松视3|采集","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"ext":"proxy"},
@@ -101,7 +96,6 @@
 {"key":"523专场","name":"523|采集","type":1,"api":"https://523zyw.me/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"proxy"},
 {"key":"火速","name":"火速|采集","type":1,"api":"https://api.huosuapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"proxy"},
 {"key":"嘿嘿场","name":"嘿嘿|采集","type":1,"api":"https://api.heiapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"proxy"},
-
 
 {"key":"apiyutu.com","name":"玉兔|资源","type":1,"api":"http://apiyutu.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["精品推荐","欧美情色","麻豆传媒","国产乱伦","强奸乱伦","国产人妻","国产SM","国产丝袜","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","三级伦理","卡通动漫","丝袜OL","自拍偷拍","日本片商","剧情介绍","网曝系列","同性恋","探花嫖娼","明星换脸"]},
 {"key":"danaizi.com","name":"大奶子|资源","type":1,"api":"http://apidanaizi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["欧美激情","中文字幕","国产乱伦","自拍偷拍","制服丝袜","网曝事件","传媒探花","清纯学生","国产主播","AV解说","淫妻作乐","港台辣妹","足浴撩妹","反差母狗","AI换脸","VR视角","重口性癖","制服诱惑","丝袜美腿","无码流出","多人群交","凌辱快感","角色剧情","强奸乱伦","韩国三级","人妻熟女","主奴调教","动漫卡通","变性伪娘","女同性恋","野外露出"]},
