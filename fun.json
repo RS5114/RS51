@@ -56,10 +56,8 @@
 {"key":"女优色库","name":"女优色库[py]","type":3,"filterable":0,"changeable":0,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/女优色库.py"},
 
 {"key":"美少女","name":"美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1},
-{"key":"AV资源","name":"AV|采集","type":1,"api":"https://api.souavzy.vip/api.php/provide/vod/at/json","searchable":1,"style":{"type":"rect","ratio":1.33},
-"changeable":1},
-{"key":"大奶子","name":"大奶子|采集","type":1,"api":"https://apidanaizi.com/api.php/provide/vod","searchable":1,"style":{"type":"rect","ratio":1.33},
-"changeable":1},
+{"key":"AV资源","name":"AV|采集","type":1,"api":"https://api.souavzy.vip/api.php/provide/vod/at/json","searchable":1,"style":{"type":"rect","ratio":1.33},"changeable":1},
+{"key":"大奶子","name":"大奶子|采集","type":1,"api":"https://apidanaizi.com/api.php/provide/vod","searchable":1,"style":{"type":"rect","ratio":1.33},"changeable":1},
 {"key":"AIvin","name":"AIvin|采集","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","ext":"proxy"},
 {"key":"色猫","name":"色猫|采集","type":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php","ext":"proxy"},
 {"key":"沙鱼","name":"沙鱼|采集","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","ext":"proxy"},
