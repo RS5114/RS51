@@ -33,6 +33,7 @@
 
 {"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"},
 
+{"key":"py_hongguo","name":"红果┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/hongguo.py","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"可可","name":"可可┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/kkys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"多多","name":"多多┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/duoduo.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"xlys","name":"雪落┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
@@ -42,7 +43,6 @@
 {"key":"maple.py","name":"枫叶┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/maple.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"py_bubuzhuiju","name":"布布┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/bubuzhuiju.py","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_juzong","name":"剧踪┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/juzong.py","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"py_hongguo","name":"红果┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/hongguo.py","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_guazi","name":"瓜子┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/guazi.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{}},
 {"key":"py_libvio","name":"LIBVIO┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/libvio.py","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_ysttv","name":"影视天堂┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/ysttv.py","searchable":1,"quickSearch":0,"filterable":1,"ext":{"host":"https://ysttv.com","pageFmt":"","searchFmt":""}},
