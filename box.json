@@ -1,7 +1,6 @@
 {
 "spider":"./sub/xs.jar;md5;5400486b7884dd01de5a306e34724c3c",
 
-
 "sites":[
 
 {"key":"py_douban","name":"豆瓣[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/douban.py","searchable":0,"filterable":0,"changeable":0},{"key":"荐片","name":"荐片[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/荐片.js"},
@@ -12,7 +11,7 @@
 {"key":"py_kkys","name":"可可追剧[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/kkys.py","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_bubuzhuiju","name":"布布追剧[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/bubuzhuiju.py","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_dsystv","name":"袋鼠影视[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/dsystv.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://dsystv.com"}},
-{"key":"py_ysttv","name":"影视天堂[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/ysttv.py","searchable":1,"quickSearch":0,"filterable":1,"ext":"host":"https://ysttv.com","pageFmt":"","searchFmt":""},
+{"key":"py_ysttv","name":"影视天堂[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/ysttv.py","searchable":1,"quickSearch":0,"filterable":1,"ext":{"host":"https://ysttv.com","pageFmt":"","searchFmt":""}},
 {"key":"py_xlys","name":"雪落影视[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://v.xl.in.ua","pageFmt":""}},
 {"key":"py_shanzha","name":"山楂影视[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/shanzha.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{}},
 {"key":"py_qiyoudy","name":"奇优影视[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/qiyoudy.py","searchable":1,"quickSearch":0,"filterable":1},
