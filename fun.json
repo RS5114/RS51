@@ -1,5 +1,8 @@
 {
-"spider":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4",
+//"spider":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4",
+
+
+ "spider":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg_upgraded.jar;md5;e58c3a2975d24db4978065ab895cf297"
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[
