@@ -18,7 +18,6 @@
 
 "sites":[
 {"key":"Douban","name":"📀豆瓣📀","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
-
   
 {"key":"天天","name":"🧿┃天天┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"柠檬","name":"🍋┃柠檬┃秒播","type":3,"api":"csp_Nmvod","playerType":2,"jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
@@ -51,7 +50,6 @@
 {"key":"py_文才","name":"文才┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/文才影视.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
 {"key":"py_4KAV","name":"4KAV┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/4KAV.py","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"小镇","name":"小镇┃[JSON-cluntop]","type":3,"api":"csp_XBPQ","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/s/小镇.json"},
-  
   
 {"key":"戒js","name":"视界┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/jys.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"4Kvmjs","name":"四影┃[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/4Kvm.js","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
