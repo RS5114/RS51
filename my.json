@@ -33,7 +33,6 @@
 
 {"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"},
 
-
 {"key":"可可","name":"可可┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/kkys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"多多","name":"多多┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/duoduo.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"xlys","name":"雪落┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
