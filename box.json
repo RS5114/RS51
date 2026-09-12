@@ -1,6 +1,5 @@
 {
-"spider":"./jar/xs.jar;md5;5400486b7884dd01de5a306e34724c3c",
-
+"spider":"./sub/xs.jar;md5;5400486b7884dd01de5a306e34724c3c",
 
 "sites":[
 
@@ -161,7 +160,8 @@
 {"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}}
 ],
 
-"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},
+"ijk":[
+{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
 {"category":4,"name":"soundtouch","value":"1"},
@@ -176,7 +176,8 @@
 {"category":4,"name":"mediacodec-auto-rotate","value":"0"},
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
 {"category":4,"name":"mediacodec-hevc","value":"0"},
-{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
+{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
 {"category":4,"name":"soundtouch","value":"1"},
