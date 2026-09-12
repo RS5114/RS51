@@ -59,6 +59,7 @@
 {"key":"qiyoudy","name":"奇优┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/qiyoudy.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"dsystv","name":"袋鼠┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/dsystv.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"maple.py","name":"枫叶┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/maple.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"py_bubuzhuiju","name":"布布[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/bubuzhuiju.py","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"TVB云播","name":"TVB云播┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"Didahd.py","name":"嘀嗒┃[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/Didahd.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
