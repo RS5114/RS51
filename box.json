@@ -100,25 +100,19 @@
 {"key":"MiFun","name":"MiFun｜动漫","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/MiFunP.py","quickSearch":1,"filterable":1,"playerType":2},{"key":"CliCli","name":"CliCli｜动漫","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/CliCli动漫.py","quickSearch":1,"filterable":1,"playerType":2},
 
 {"key":"8","name":"---8---"}],
-
 "lives":[
-{"name":"cluntop","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/lib/iptv.m3u"},
-{"name":"cluntop_test","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/lib/iptv_test.m3u"},
-{"name":"歌手直播","type":0,"url":"https://mgtv.ottiptv.cc/mglist.m3u","ua":"okhttp/3.15"},
-{"name":"虎牙一起看","type":0,"url":"https://sub.ottiptv.cc/huyayqk.m3u"},
-{"name":"斗鱼一起看","type":0,"url":"https://sub.ottiptv.cc/douyuyqk.m3u"},
-{"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u"},
-{"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u"},
-{"name":"Kimentanm","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":2},
-{"name":"wqwqwq","type":0,"url":"https://la1.wqwqwq.sbs/tv.m3u"},
-{"name":"YanG","type":"0","pass":true,"url":"https://gh-proxy.org/https://https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"suxuang","type":"0","pass":true,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Guovin","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"},
-{"name":"mlzlzj","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u"},
-{"name":"gambiarras","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u"},
-{"name":"epg.pwAll","type":0,"url":"https://m3u.002397.xyz/all.m3u"},
-{"name":"iptv.orgAll","type":0,"url":"https://m3u.002397.xyz/o_all.m3u"},
+{"name":"【CNB__自制】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/live.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"【咪咕__直播】","type":0,"url":"https://gitiptv.feifanlib.shop","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},  
+{"name":"【Free-TV】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"【四川__电信】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/组播_四川电信.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"【四川__联通】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/组播_四川联通.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"【四川__移动】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/组播_四川移动.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"【电视__直播】","type":0,"url":"https://live.hacks.tools/tv/iptv4.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"【全国_组播①】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"【全国_组播②】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+{"name":"【rihou_GGGG】","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType":2,"ua":"okhttp/3.15"},
 {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=live&proxy=&url="]}]}
+],
 
 ],
 
