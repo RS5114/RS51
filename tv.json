@@ -24,7 +24,6 @@
 {"key":"剧评","name":"🤪┃剧评┃影视","type":3,"api":"csp_Jpys","playerType":1,"jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
 {"key":"金牌APP","name":"🥇金牌┃App","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l","jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E"},
 
-{"key":"py_hongguo","name":"红果┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/hongguo.py","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"可可","name":"可可┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/kkys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"多多","name":"多多┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/duoduo.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"xlys","name":"雪落┃[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
