@@ -29,7 +29,8 @@
 {"name":"成人电影","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/fish2018/lib/main/txt/成人电影.txt","ua":"okhttp/3.15"},
 {"name":"珍藏","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/fish2018/lib/main/txt/珍藏.m3u","ua":"okhttp/3.15"},
 {"name":"绝品","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/fish2018/lib/main/txt/绝品.txt","ua":"okhttp/3.15"},
-{"name":"美腿丝袜","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/fish2018/lib/main/txt/美腿丝袜.txt","ua":"okhttp/3.15"}
+{"name":"美腿丝袜","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/fish2018/lib/main/txt/美腿丝袜.txt","ua":"okhttp/3.15"},
+{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=live&proxy=&url="]}]}
 
 ],
 
