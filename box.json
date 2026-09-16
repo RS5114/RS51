@@ -23,6 +23,17 @@
 {"key":"天天","name":"🧿┃天天┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"柠檬","name":"🍋┃柠檬┃秒播","type":3,"api":"csp_Nmvod","playerType":2,"jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
 
+{"key":"猎手","name":"猎手丨影视","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/猎手.py"},
+{"key":"独播库","name":"播库┃影视","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/VmOlRys8_vip.js"},
+{"key":"瓜子影视","name":"瓜子｜影视","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/GZYS.py","changeable":1},
+{"key":"华数","name":"华数｜影视","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/华数.py","changeable":1},
+{"key":"看剧影视","name":"看剧丨影视","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/AppToV5.py","ext":"http://43.248.117.123:4680"},
+{"key":"央视","name":"央视丨影视","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/央视.py"},
+{"key":"py_文才","name":"文才｜影视","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/文才影视.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"}},
+{"key":"py_6v","name":"四影｜影视","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/4Kvm.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"cat_剧迷网","name":"剧迷｜影视","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/高清剧迷.js","style":{"type":"rect","ratio":1},"changeable":1},
+{"key":"荐片123","name":"荐片｜影视","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/荐片.js"},
+
 {"key":"py_bubuzhuiju","name":"布布追剧 [🍎]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/bubuzhuiju.py","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_maple","name":"枫叶 [🍎]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/maple.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"sites":["https://www.zzztool.com","https://maihaolian.com","https://www.cd-zj.com"],"sitesIndex":0}},
 {"key":"py_juzong","name":"剧踪 [🍎]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/juzong.py","searchable":1,"quickSearch":1,"filterable":1},
