@@ -1029,17 +1029,8 @@ CGTN-英语,http://175.152.159.222:8888/rtp/239.0.0.49:5140
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
-金川乡村,http://139.203.180.9:90/live/jcxc.m3u8
-金川乡村,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd&quot;
-金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
-金川乡村,https://m3u8channelyc.yunxya.com/nmipmedia/channellive/channel100103/playlist.m3u8
-金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
-金川新闻综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
-金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed?
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
 雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
-长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8
