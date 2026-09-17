@@ -1,21 +1,21 @@
 [
 {"name":"推荐","list":[
-{"name":"电视-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/fm.png","version":"v7a"},
-{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/mobile-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/fm.png","version":"v7a"}
+{"name":"电视-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
+{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"}
 ]},
 
 {"name":"蜂蜜影视","list":[
-{"name":"电视-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/fm.png","version":"v7a"},
-{"name":"电视-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/leanback-arm64_v8a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/fm.png","version":"v8a"},
-{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/mobile-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/fm.png","version":"v7a"},
-{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/mobile-arm64_v8a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/fm.png","version":"v8a"}
+{"name":"电视-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
+{"name":"电视-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-arm64_v8a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v8a"},
+{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
+{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v8a"}
 ]},
 
 {"name":"TVBox","list":[
-{"name":"TVBox-jav","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/refs/heads/main/TVBox/TVBox_q215613905_20260914-1520-java.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/fm1.png","version":"jav"},
-{"name":"TVBox-jav32","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/refs/heads/main/TVBox/TVBox_q215613905_20260914-1520-java32.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/fm1.png","version":"jav32"},
-{"name":"TVBox-py","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/refs/heads/main/TVBox/TVBox_q215613905_20260914-1520-python.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/fm1.png","version":"py"},
-{"name":"TVBox-py32","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/refs/heads/main/TVBox/TVBox_q215613905_20260914-1520-python32.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/refs/heads/main/sub/fm1.png","version":"py32"}
+{"name":"TVBox-jav","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/main/TVBox/TVBox_q215613905_20260914-1520-java.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"jav"},
+{"name":"TVBox-jav32","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/main/TVBox/TVBox_q215613905_20260914-1520-java32.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"jav32"},
+{"name":"TVBox-py","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/main/TVBox/TVBox_q215613905_20260914-1520-python.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"py"},
+{"name":"TVBox-py32","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/main/TVBox/TVBox_q215613905_20260914-1520-python32.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/TVBox.png","version":"py32"}
 ]}
 
 ]
