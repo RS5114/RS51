@@ -12,10 +12,10 @@
 ]},
 
 {"name":"TVBox","list":[
-{"name":"TVBox-jav","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/main/TVBox/TVBox_q215613905_20260914-1520-java.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"jav"},
-{"name":"TVBox-jav32","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/main/TVBox/TVBox_q215613905_20260914-1520-java32.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"jav32"},
-{"name":"TVBox-py","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/main/TVBox/TVBox_q215613905_20260914-1520-python.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"py"},
-{"name":"TVBox-py32","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/main/TVBox/TVBox_q215613905_20260914-1520-python32.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/TVBox.png","version":"py32"}
+{"name":"TVBox-jav","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-java.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"jav"},
+{"name":"TVBox-jav32","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-java32.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"jav32"},
+{"name":"TVBox-py","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-python.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"py"},
+{"name":"TVBox-py32","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-python32.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/TVBox.png","version":"py32"}
 ]}
 
 ]
