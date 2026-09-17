@@ -1,7 +1,11 @@
 [
 {"name":"推荐","list":[
 {"name":"电视-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
-{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"}
+{"name":"手机-arm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-armeabi_v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
+{"name":"TVBox-jav","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-java.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"jav"},
+{"name":"TVBox-jav32","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-java32.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"jav32"},
+{"name":"TVBox-py32","url":"https://gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-python32.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"py32"}
+
 ]},
 
 {"name":"蜂蜜影视","list":[
