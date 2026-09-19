@@ -22,7 +22,7 @@ https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.js
 
  http://xmbjm.fh4u.org/dc.txt   # 拾光多仓
 
-{"urls":[{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/888.html","name":"👇收集网络线路👇"},
+{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/888.html","name":"👇收集网络线路👇"},
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/1.html","name":"🌟1饭太硬线路1🌟"},
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/2.html","name":"🌟2光歌云盘2🌟"},
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/3.html","name":"🌟3盒子迷线路3🌟"},
@@ -44,8 +44,6 @@ https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.js
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/19.html","name":"🌟19小屋线路19🌟"},
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/20.html","name":"🌟20南风线路20🌟"},
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/21.html","name":"🌟21杰歌学习21🌟"},
-{"url":"clan://localhost/TVBoxOSC/tvbox/api.json","name":"🌟潇洒本地包专用🌟"},
-{"url":"clan://localhost/tvbox/cache/888.html","name":"🌟本地包专用🌟"}
 
 直播源
 
