@@ -4,7 +4,7 @@
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[
 {"name":"【CNB__自制】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/live.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
-{"name":"【咪咕__直播】","type":0,"url":"https://gitiptv.feifanlib.shop","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},  
+{"name":"【咪咕__直播】","type":0,"url":"https://gitiptv.feifanlib.shop","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【Free-TV】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【四川__电信】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/组播_四川电信.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【四川__联通】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/组播_四川联通.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
@@ -12,10 +12,10 @@
 {"name":"【电视__直播】","type":0,"url":"https://live.hacks.tools/tv/iptv4.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【全国_组播①】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【全国_组播②】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
-{"name":"【rihou_GGGG】","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType":2,"ua":"okhttp/3.15"},
-{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=live&proxy=&url="]}]}
+{"name":"【rihou_GGGG】","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType":2,"ua":"okhttp/3.15"}
+
 ],
-  
+
 
 "sites":[
 {"key":"Douban","name":"📀豆瓣📀","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
@@ -26,6 +26,8 @@
 {"key":"nangua","name":"🎃┃南瓜┃影视","type":3,"api":"csp_NanGua","playerType":2,"jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
 {"key":"金牌","name":"🥇┃金牌┃影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942483i93j6h95h84jil1g7i7","jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E"},
 {"key":"王子","name":"🍟┃王子┃影视","type":3,"api":"csp_Xdai","ext":"7lj763gg402i7942503g9g9jk909jji3g0li9j088291253h4k141gggkk41435h43924kg6ik48i0856j01k882glkh4kllg538704jl5k4j1gl27j321g03lll","jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E"},
+{"key":"csp_Guazi","name":"🍉┃瓜子┃影视","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Guazi","jar":"https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png"},
+{"key":"Guazi_App","name":"🍉┃瓜子┃App","type":3,"api":"csp_Guazi","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":""},
 
 //{"key":"ZXZJ","name":"🎞┃在线┃之家","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942463j9j9jgg449698khhh845ki38473"},
 //{"key":"Lib","name":"🛎️┃立白┃影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"jar":"./sub/lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h"},
