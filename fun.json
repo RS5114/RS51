@@ -1,5 +1,5 @@
 {
-"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;dbc93cb9a14cff520dc4f26e6eddb68c",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[
