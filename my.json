@@ -36,6 +36,7 @@
 {"key":"csp_Jpys","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpys","ext":"https://y2s52n7.com","jar":"https://img2.gelonghui.com/library/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3"},
 {"key":"csp_SaoHuo","name":"🔥┃火火┃影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us","jar":"https://img2.gelonghui.com/library/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3"},
 
+
 {"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4"},
 
 {"key":"可可","name":"可可[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/kkys.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
