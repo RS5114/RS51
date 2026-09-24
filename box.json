@@ -1,6 +1,5 @@
 {
 "spider": "./sub/FM060923.png;md5;46da6b6a6a111d7924717db2ae790de3",
-//"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;dbc93cb9a14cff520dc4f26e6eddb68c",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[
@@ -21,7 +20,7 @@
 "sites":[
 
 {"key":"Douban","name":"📀豆瓣📀","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./lib/douban.json"},
-//{"key":"py_douban","name":"📀豆瓣📀","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/douban.py","searchable":0,"filterable":0,"changeable":0},
+
 
 {"key":"干饭","name":"🍚┃干饭┃APP","type":3,"api":"csp_AppGet","ext":"https://www.douy32mf.top|1234567887654321"},
 {"key":"csp_Jpys","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpys","ext":"https://y2s52n7.com"},
