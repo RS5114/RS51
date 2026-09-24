@@ -1,5 +1,5 @@
 {
-"spider":"./pg.jar;md5;562b836d6f3251ee108a34f91987f3e4",
+"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;dbc93cb9a14cff520dc4f26e6eddb68c",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[
@@ -12,13 +12,13 @@
 {"name":"【电视__直播】","type":0,"url":"https://live.hacks.tools/tv/iptv4.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【全国_组播①】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【全国_组播②】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
-
 {"name":"【rihou_GGGG】","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType":2,"ua":"okhttp/3.15"}
+
 ],
 
-"sites":[
-{"key":"Douban","name":"📀豆瓣📀","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
 
+"sites":[
+{"key":"py_douban","name":"📀豆瓣📀","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/douban.py","searchable":0,"filterable":0,"changeable":0},
 
 {"key":"猎手","name":"猎手[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/猎手.py"},
 {"key":"独播库","name":"独播库[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/VmOlRys8_vip.js"},
