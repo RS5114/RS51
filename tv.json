@@ -20,16 +20,6 @@
 "sites":[
 {"key":"py_douban","name":"📀豆瓣📀","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/douban.py","searchable":0,"filterable":0,"changeable":0},
 
-{"key":"猎手","name":"猎手[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/猎手.py"},
-{"key":"独播库","name":"独播库[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/VmOlRys8_vip.js"},
-{"key":"瓜子影视","name":"瓜子[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/GZYS.py","changeable":1},
-{"key":"华数","name":"华数[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/华数.py","changeable":1},
-{"key":"看剧影视","name":"看剧[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/AppToV5.py","ext":"http://43.248.117.123:4680"},
-{"key":"央视","name":"央视[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/央视.py"},
-{"key":"py_文才","name":"文才[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/文才影视.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"}},
-{"key":"py_6v","name":"四影[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/4Kvm.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"cat_剧迷网","name":"剧迷[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/高清剧迷.js","style":{"type":"rect","ratio":1},"changeable":1},
-{"key":"荐片123","name":"荐片[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/荐片.js"},
 
 {"key":"荐片","name":"荐片[JS-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/荐片.js"},
 {"key":"金牌影院","name":"金牌[JS-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/金牌影院.js"},
