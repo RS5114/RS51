@@ -28,8 +28,3 @@ https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.js
 "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/19.html","name":"🌟19小屋线路19🌟"
 "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/20.html","name":"🌟20南风线路20🌟"
 "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/21.html","name":"🌟21杰歌学习21🌟"
-
-
-smart-cn：https://www.iyouhun.com/tv/smart-cn.m3u
-
-4gtv-cn：https://www.iyouhun.com/tv/4gtv-cn.m3u
