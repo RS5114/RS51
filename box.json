@@ -28,12 +28,6 @@
 {"key":"荐片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"https://api.ztcgi.com"},
 {"key":"光盘","name":"📀┃光盘┃APP","type":3,"api":"csp_AppQi","ext":"http://103.217.190.91:5566|hagYExMdMkeWfemK"},
 
-{"key":"猎手","name":"猎手[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/猎手.py"},
-{"key":"独播库","name":"独播库[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/VmOlRys8_vip.js"},
-{"key":"看剧影视","name":"看剧[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/AppToV5.py","ext":"http://43.248.117.123:4680"},
-{"key":"py_文才","name":"文才[PY-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/py/文才影视.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"}},
-{"key":"荐片123","name":"荐片[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/荐片.js"},
-{"key":"毒舌影视","name":"毒舌[JS-ouhaibo]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/毒舌影视.js"},
 
 {"key":"py_bubuzhuiju","name":"布布[PY-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/bubuzhuiju.py","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_maple","name":"枫叶[PY-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/maple.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"sites":["https://www.zzztool.com","https://maihaolian.com","https://www.cd-zj.com"],"sitesIndex":0}},
