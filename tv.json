@@ -42,7 +42,6 @@
 {"key":"py_农牧","name":"农牧影视[PY-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/农民影视.py","quickSearch":1,"filterable":1,"playerType":2},
 {"key":"py_文才","name":"文才影视[PY-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/文才影视.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
 {"key":"py_4KAV","name":"4KAV[PY-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/4KAV.py","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"py_yunduo","name":"云朵[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/py_yunduo.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
 {"key":"360","name":"360|采集","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","爱情片","恐怖片","剧情片","国产剧","香港剧","韩国剧","欧美剧","悬疑片","纪录片","动画片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧"]},
 {"key":"量子","name":"量子|采集","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","quickSearch":1,"searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","恐怖片","剧情片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","泰国剧","大陆综艺","港台综艺","日韩综艺","国产动漫","日韩动漫","欧美动漫","电影解说","足球","篮球","短剧","动画片","AI漫剧"]},
