@@ -27,7 +27,7 @@
 {"key":"csp_SaoHuo","name":"🔥┃火火┃影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 {"key":"荐片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"https://api.ztcgi.com"},
 {"key":"光盘","name":"📀┃光盘┃APP","type":3,"api":"csp_AppQi","ext":"http://103.217.190.91:5566|hagYExMdMkeWfemK"},
-
+{"key":"潮流","name":"🏜┃潮流┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn"},
 
 {"key":"py_bubuzhuiju","name":"布布[PY-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/bubuzhuiju.py","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_maple","name":"枫叶[PY-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/maple.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"sites":["https://www.zzztool.com","https://maihaolian.com","https://www.cd-zj.com"],"sitesIndex":0}},
