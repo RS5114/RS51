@@ -39,7 +39,13 @@
 {"key":"py_duoduo","name":"多多[PY-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/duoduo.py","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"py_juok3","name":"剧OK[PY-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/juok3.py","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"金牌影院","name":"金牌[JS-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/金牌影院.js"},
+
 {"key":"TVB云播","name":"TVB云播[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"Didahd.py","name":"嘀嗒[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/Didahd.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"Ncat.py","name":"网飞猫[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/Ncat.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"华数.py","name":"华数[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/华数.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"华谊影视.py","name":"华谊[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"GZYS.py","name":"瓜子[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/GZYS.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
 {"key":"360","name":"360|采集","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","爱情片","恐怖片","剧情片","国产剧","香港剧","韩国剧","欧美剧","悬疑片","纪录片","动画片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧"]},
 {"key":"非凡","name":"非凡|采集","type":1,"api":"https://cj.ffzyapi.com/api.php/provide/vod/","quickSearch":1,"searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","国产动漫","日韩动漫","欧美动漫","伦理片","短剧"]},
