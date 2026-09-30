@@ -6,15 +6,15 @@ https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.js
 多仓：
  https://www.iyouhun.com/tv/dc   # 游魂多仓
  https://www.iyouhun.com/tv/yh   # 游魂多仓（备）
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/888.html","👇收集网络线路👇"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/1.html","🌟1饭太硬线路1🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/2.html","🌟2光歌云盘2🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/3.html","🌟3盒子迷线路3🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/4.html","🌟4肥猫线路4🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/5.html","🌟5潇洒改版闪退5🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/6.html","🌟6东篱线路6🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/7.html","🌟7小米线路7🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/8.html","🌟8王二线路8🌟"
+👇收集网络线路👇:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/888.html
+🌟1饭太硬线路1🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/1.html
+🌟2光歌云盘2🌟:"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/2.html
+🌟3盒子迷线路3🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/3.html
+🌟4肥猫线路4🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/4.html
+🌟5潇洒改版闪退5🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/5.html
+🌟6东篱线路6🌟:"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/6.html
+🌟7小米线路7🌟:"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/7.html
+🌟8王二线路8🌟"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/8.html",""
 "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/9.html","🌟9小虎线路9🌟"
 "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/10.html","🌟10摸鱼线路10🌟"
 "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/11.html","🌟11极客线路11🌟"
