@@ -3,8 +3,7 @@ https://xn--s6wu47g.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=游
 南风线路：“http://by1.430520.xyz//tvbox/cache/20.html”
 PG线路：“https://www.252035.xyz/p/jsm.json”
 https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.json
-多仓：
- https://www.iyouhun.com/tv/dc   # 游魂多仓
+多仓：https://www.iyouhun.com/tv/dc   # 游魂多仓
  https://www.iyouhun.com/tv/yh   # 游魂多仓（备）
 👇收集网络线路👇:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/888.html
 🌟1饭太硬线路1🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/1.html
@@ -14,17 +13,17 @@ https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.js
 🌟5潇洒改版闪退5🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/5.html
 🌟6东篱线路6🌟:"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/6.html
 🌟7小米线路7🌟:"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/7.html
-🌟8王二线路8🌟"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/8.html",""
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/9.html","🌟9小虎线路9🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/10.html","🌟10摸鱼线路10🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/11.html","🌟11极客线路11🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/12.html","🌟12分享线路12🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/13.html","🌟13多多线路13🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/14.html","🌟14无名线路14🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/15.html","🌟15集多线路15🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/16.html","🌟16菜妮丝线路16🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/17.html","🌟17胜寒线路17🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/18.html","🌟18驸马线路18🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/19.html","🌟19小屋线路19🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/20.html","🌟20南风线路20🌟"
-"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/21.html","🌟21杰歌学习21🌟"
+🌟8王二线路8🌟"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/8.html
+🌟9小虎线路9🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/9.html
+🌟10摸鱼线路10🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/10.html
+🌟11极客线路11🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/11.html
+🌟12分享线路12🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/12.html
+🌟13多多线路13🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/13.html
+🌟14无名线路14🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/14.html
+🌟15集多线路15🌟:"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/15.html
+🌟16菜妮丝线路16🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/16.html
+🌟17胜寒线路17🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/17.html
+🌟18驸马线路18🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/18.html
+🌟19小屋线路19🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/19.html
+🌟20南风线路20🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/20.html
+🌟21杰歌学习21🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/21.html
