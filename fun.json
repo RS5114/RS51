@@ -38,15 +38,7 @@
 
 {"key":"XMVideo","name":"熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./sub/182.jar;md5;4b13c299ed9dfca65bc775507a7d0118"},
 {"key":"apiyutu","name":"【9kg】玉兔资源","type":0,"api":"http://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
-
   
-{"key":"51短剧py","name":"51短剧[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/51短剧.py","ext":""},
-{"key":"huangguopy","name":"黄果[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo.py","ext":""},
-{"key":"lsys111py","name":"lsys111[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/lsys111.py","ext":""},
-{"key":"xigua51py","name":"xigua51[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/xigua51.py","ext":""},
-{"key":"xx01py","name":"xx01[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/xx01.py","ext":""},
-{"key":"shaofu36py","name":"shaofu36[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/shaofu36.py","ext":""},
-{"key":"肉视频py","name":"肉视频[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/肉视频.py","ext":""},
 {"key":"py_huangdou","name":"黄豆短剧[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangdou.py","ext":""},
 {"key":"py_lsys111","name":"恋丝影视[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/lsys111.py","ext":""},
 {"key":"py_rolizxwnoble","name":"乱伦仓库[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/rolizxwnoble.py","ext":""},
