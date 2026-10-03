@@ -1,4 +1,6 @@
-{"urls":[{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/888.html","name":"👇收集网络线路👇"},
+{
+"urls":[
+{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/888.html","name":"👇收集网络线路👇"},
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/1.html","name":"🌟1饭太硬线路1🌟"},
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/2.html","name":"🌟2光歌云盘2🌟"},
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/3.html","name":"🌟3盒子迷线路3🌟"},
@@ -20,4 +22,5 @@
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/19.html","name":"🌟19小屋线路19🌟"},
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/20.html","name":"🌟20南风线路20🌟"},
 {"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/21.html","name":"🌟21杰歌学习21🌟"}
-]}
+]
+}
