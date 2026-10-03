@@ -41,6 +41,8 @@
 {"key":"dandanqi.py","name":"蛋蛋奇[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/dandanqi.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"guazi.py","name":"瓜子[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/guazi.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"daikanbot.py","name":"爱看机器人[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/aikanbot.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"libvio.py","name":"立播[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/libvio.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"fqdm.py","name":"番茄动漫[PY-cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/fqdm.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
 
 {"key":"TVB云播","name":"TVB云播[PY-qist]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
