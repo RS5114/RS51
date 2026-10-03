@@ -24,7 +24,6 @@
 {"key":"干饭","name":"🍚┃干饭┃APP","type":3,"api":"csp_AppGet","ext":"https://www.douy32mf.top|1234567887654321"},
 {"key":"荐片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"https://api.ztcgi.com"},
 {"key":"光盘","name":"📀┃光盘┃APP","type":3,"api":"csp_AppQi","ext":"http://103.217.190.91:5566|hagYExMdMkeWfemK"},
-{"key":"csp_FeiMaoUC","name":"⚡┃闪电┃优汐","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://shandian.blog/","http://sd.sduc.site/"],"threadinfo":{"chunksize":512,"threads":16},"url_key":"FeiMaoUC"}},
 {"key":"潮流","name":"🏜┃潮流┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn"},
 
 {"key":"py_bubuzhuiju","name":"布布[PY-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/bubuzhuiju.py","searchable":1,"quickSearch":1,"filterable":1},
