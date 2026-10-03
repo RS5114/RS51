@@ -21,9 +21,6 @@
 {"key":"py_douban","name":"📀豆瓣📀","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/douban.py","searchable":0,"filterable":0,"changeable":0},
 
 
-{"key":"荐片","name":"荐片[JS-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/荐片.js"},
-{"key":"金牌影院","name":"金牌[JS-clun]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/金牌影院.js"},
-
 {"key":"MiFunPpy","name":"MiFunPpy[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/MiFunP.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"aiguapy","name":"aiguapy[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/aigua.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"bubuzhuijupy","name":"bubuzhuijupy[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/bubuzhuiju.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
