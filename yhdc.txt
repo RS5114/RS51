@@ -1,8 +1,11 @@
 {"urls":
 [
-{"name":"🚀游魂┃潇洒","url":"https://www.iyouhun.com/tv/xs"},
-{"name":"🚀游魂┃饭太硬","url":"https://www.iyouhun.com/tv/fty"},
 {"name":"🚀游魂┃肥猫","url":"https://www.iyouhun.com/tv/fm"},
+{"name":"🚀游魂┃潇洒","url":"https://www.iyouhun.com/tv/xs"},
+{"name":"🚀游魂┃香雅情线路","url":"https://www.iyouhun.com/tv/xyq"},
+{"name":"🚀游魂┃哈基米线路","url":"https://www.iyouhun.com/tv/hjm"},
+{"name":"🚀游魂┃集多线路""url":"https://www.iyouhun.com/tv/jd"},
+{"name":"🚀游魂┃饭太硬","url":"https://www.iyouhun.com/tv/fty"},
 {"name":"🚀游魂┃PG","url":"https://www.iyouhun.com/tv/pg"},
 {"name":"🚀游魂┃多多","url":"https://www.iyouhun.com/tv/duo"},
 {"name":"🚀游魂┃东篱","url":"https://www.iyouhun.com/tv/dongli"},
