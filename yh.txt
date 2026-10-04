@@ -1,0 +1,10 @@
+{
+"storeHouse":[
+{"sourceName":"🌹游魂主仓库🌹","sourceUrl":"https://xn--s6wu47g.v.nxog.top/apia.php?id=1"},
+{"sourceName":"🌹游魂备1仓库🌹","sourceUrl":"https://by1.430520.xyz/?b=游魂"},
+{"sourceName":"🌹游魂备2仓库🌹","sourceUrl":"https://by2.nxog.fun/?b=游魂"},
+{"sourceName":"🌹游魂备3仓库🌹","sourceUrl":"https://xn--s6wu47g.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1"},
+{"sourceName":"🌹游魂备4仓库🌹","sourceUrl":"https://xn--s6wu47g.v.nxog.top/nxog/oua.php?b=游魂"},
+{"sourceName":"🌹游魂备5仓库🌹","sourceUrl":"https://www.iyouhun.com/tv/dcby.json"}
+]
+}
