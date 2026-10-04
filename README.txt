@@ -1,7 +1,7 @@
-游魂收集：“http://by1.430520.xyz//tvbox/cache/888.html”
+游魂收集：http://by1.430520.xyz//tvbox/cache/888.html
 https://xn--s6wu47g.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=游魂
-南风线路：“http://by1.430520.xyz//tvbox/cache/20.html”
-PG线路：“https://www.252035.xyz/p/jsm.json”
+南风线路：http://by1.430520.xyz//tvbox/cache/20.html
+PG线路：https://www.252035.xyz/p/jsm.json
 https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.json
 多仓：https://www.iyouhun.com/tv/dc   # 游魂多仓
  https://www.iyouhun.com/tv/yh   # 游魂多仓（备）
