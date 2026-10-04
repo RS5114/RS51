@@ -27,3 +27,16 @@ https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.js
 🌟19小屋线路19🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/19.html
 🌟20南风线路20🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/20.html
 🌟21杰歌学习21🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/21.html
+
+
+ipconfig /flushdns
+
+https://gh-proxy.org/https://raw.githubusercontent.com/JohyC/Hosts/main/hosts.txt
+https://gh-proxy.org/https://raw.githubusercontent.com/ittuann/GitHub-IP-hosts/main/hosts
+https://gh-proxy.org/https://raw.githubusercontent.com/wjz304/hosts/main/hosts
+https://gh-proxy.org/https://raw.githubusercontent.com/521xueweihan/GitHub520/main/hosts
+https://raw.hellogithub.com/hosts
+https://gh-proxy.org/https://raw.githubusercontent.com/fliu2476/gh-hosts/main/hosts
+https://gh-proxy.org/https://raw.githubusercontent.com/maxiaof/github-hosts/master/hosts
+https://gh-proxy.org/https://raw.githubusercontent.com/ineo6/hosts/master/hosts
+https://hosts.gitcdn.top/hosts.txt
