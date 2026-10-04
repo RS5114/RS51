@@ -1,10 +1,6 @@
-游魂收集：http://by1.430520.xyz//tvbox/cache/888.html
-https://xn--s6wu47g.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=游魂
-南风线路：http://by1.430520.xyz//tvbox/cache/20.html
-PG线路：https://www.252035.xyz/p/jsm.json
 https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.json
-多仓：https://www.iyouhun.com/tv/dc   # 游魂多仓
- https://www.iyouhun.com/tv/yh   # 游魂多仓（备）
+#游魂多仓：https://www.iyouhun.com/tv/dc
+#游魂多仓（备）:https://www.iyouhun.com/tv/yh
 👇收集网络线路👇:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/888.html
 🌟1饭太硬线路1🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/1.html
 🌟2光歌云盘2🌟:"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/2.html
@@ -29,27 +25,27 @@ https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.js
 🌟21杰歌学习21🌟:https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/21.html
 
 
-# Copyright (c) 1993-2009 Microsoft Corp.
+#Copyright(c)1993-2009MicrosoftCorp.
 #
-# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#ThisisasampleHOSTSfileusedbyMicrosoftTCP/IPforWindows.
 #
-# This file contains the mappings of IP addresses to host names. Each
-# entry should be kept on an individual line. The IP address should
-# be placed in the first column followed by the corresponding host name.
-# The IP address and the host name should be separated by at least one
-# space.
+#ThisfilecontainsthemappingsofIPaddressestohostnames.Each
+#entryshouldbekeptonanindividualline.TheIPaddressshould
+#beplacedinthefirstcolumnfollowedbythecorrespondinghostname.
+#TheIPaddressandthehostnameshouldbeseparatedbyatleastone
+#space.
 #
-# Additionally, comments (such as these) may be inserted on individual
-# lines or following the machine name denoted by a '#' symbol.
+#Additionally,comments(suchasthese)maybeinsertedonindividual
+#linesorfollowingthemachinenamedenotedbya'#'symbol.
 #
-# For example:
+#Forexample:
 #
-# 102.54.94.97 rhino.acme.com # source server
-# 38.25.63.10 x.acme.com # x client host
-127.0.0.1 localhost
-::1 localhost
+#102.54.94.97rhino.acme.com#sourceserver
+#38.25.63.10x.acme.com#xclienthost
+127.0.0.1localhost
+::1localhost
 
-ipconfig /flushdns
+ipconfig/flushdns
 
 https://gh-proxy.org/https://raw.githubusercontent.com/JohyC/Hosts/main/hosts.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/ittuann/GitHub-IP-hosts/main/hosts
