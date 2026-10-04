@@ -21,12 +21,24 @@
 "sites":[
 {"key":"豆瓣","name":"🐼豆瓣🐼","type":3,"api":"csp_Douban","searchable":0},
 
+
 {"key":"金牌","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpys","ext":"https://y2s52n7.com","playerType":2},
 {"key":"干饭","name":"🍚┃干饭┃APP","type":3,"api":"csp_AppGet","ext":"https://www.douy32mf.top|1234567887654321","playerType":2},
 {"key":"光盘","name":"📀┃光盘┃APP","type":3,"api":"csp_AppQi","ext":"http://103.217.190.91:5566|hagYExMdMkeWfemK","playerType":2},
 {"key":"潮流","name":"🏜┃潮流┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn","playerType":2},
 {"key":"骚火","name":"🔥┃骚火┃影视","type":3,"api":"csp_SaoHuo","ext":"https://shdy5.us","playerType":2},
 {"key":"荐片","name":"🎬┃荐片┃影视","type":3,"api":"csp_Jianpian","ext":"https://api.ztcgi.com","playerType":2},
+
+{"key":"极影","name":"极影","type":3,"api":"https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyun2.qijiyun.vip/api.php/app/"},
+{"key":"星辰影院","name":"星辰","type":3,"api":"https://mpimg.cn/down.php/a89881364b7134fb2db0ab0ddeffa018.py"},
+{"key":"橘汁","name":"橘汁","type":3,"api":"https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"},
+{"key":"剧下饭","name":"剧下饭","type":3,"api":"https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"},
+{"key":"青麦","name":"青麦","type":3,"api":"https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"},
+{"key":"Acfun","name":"Acfun","type":3,"api":"https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py"},
+{"key":"布布","name":"布布","type":3,"api":"https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py","style":{"type":"rect","ratio":1.33},"changeable":1},
+{"key":"文才影视","name":"文才","type":3,"api":"https://fastlink.cokey.xyz/f/0LYlCj/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}},
+{"key":"耐看","name":"耐看","type":3,"api":"https://mpimg.cn/down.php/64822fa89d2b95024b3d621b379dc166.py"},
+{"key":"七猫","name":"七猫｜短剧","type":3,"api":"https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 
 {"key":"MiFunPpy","name":"MiFunPpy[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/MiFunP.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"aiguapy","name":"aiguapy[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/aigua.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
