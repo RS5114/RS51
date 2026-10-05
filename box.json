@@ -30,7 +30,6 @@
 
 {"key":"橘汁","name":"橘汁","type":3,"api":"https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"},
 {"key":"极影","name":"极影","type":3,"api":"https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyun2.qijiyun.vip/api.php/app/"},
-{"key":"星辰影院","name":"星辰","type":3,"api":"https://mpimg.cn/down.php/a89881364b7134fb2db0ab0ddeffa018.py"},
 {"key":"剧下饭","name":"剧下饭","type":3,"api":"https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"},
 {"key":"青麦","name":"青麦","type":3,"api":"https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"},
 {"key":"Acfun","name":"Acfun","type":3,"api":"https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py"},
@@ -103,7 +102,7 @@
 
 
 "parses":[],
-"flags": [],
+"flags":[],
 
 "doh":[
 {"name":"OpenDNS","url":"https://dns.www.opendns.com/dns-query","ips":["208.67.222.222","208.67.220.220"]},
