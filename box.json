@@ -93,6 +93,8 @@
 {"key":"subocaiji.com","name":"🌼速播┃资源🌼","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
 {"key":"suoniapi.com","name":"🌼索尼┃资源🌼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
 {"key":"xgzy7.tv","name":"🌼西瓜┃资源🌼","type":1,"api":"https://xgzy7.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
+{"key":"tyyszyapi.com","name":"🌼天涯┃资源🌼","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
+{"key":"wsyzy.net","name":"🌼无水印┃资源🌼","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
 
 {"key":"本地","name":"🌸本地｜视频","type":3,"api":"csp_LocalFile"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/market.json"},
