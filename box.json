@@ -85,7 +85,7 @@
 {"key":"jyzyapi.com","name":"🌼金鹰┃资源🌼","type":1,"api":"https://jyzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
 {"key":"jyzyapi.com","name":"🌼金鹰┃资源🌼","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
 {"key":"lziapi.com","name":"🌼量子┃资源🌼","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
-{"key":"maotaizy.cc","name":"🌼茅台┃资源🌼","type":1,"api":"https://caiji.maotaizy.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playerType":2},
+{"key":"mtzy5.com","name":"🌼茅台┃资源🌼","type":1,"api":"https://mtzy5.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
 {"key":"maoyanzy.com","name":"🌼猫眼┃资源🌼","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
 {"key":"mdzyapi.com","name":"🌼魔都┃资源🌼","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"p2100.net","name":"🌼飘零┃资源🌼","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
