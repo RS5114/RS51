@@ -37,7 +37,7 @@
 {"key":"耐看","name":"耐看影视PY","type":3,"api":"https://mpimg.cn/down.php/64822fa89d2b95024b3d621b379dc166.py"},
 {"key":"七猫","name":"七猫短剧PY","type":3,"api":"https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 
-{"key":"MiFunPpy","name":"MiFunPpy[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/MiFunP.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key":"MiFunPpy","name":"MiFun动漫py[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/MiFunP.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"aiguapy","name":"爱瓜TVpy[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/aigua.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"bubuzhuijupy","name":"布布追剧[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/bubuzhuiju.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"dsystvpy","name":"袋鼠影视py[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/dsystv.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
