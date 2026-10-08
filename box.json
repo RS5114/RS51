@@ -27,6 +27,7 @@
 {"key":"潮流","name":"🏜┃潮流┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn","playerType":2},
 {"key":"骚火","name":"🔥┃骚火┃影视","type":3,"api":"csp_SaoHuo","ext":"https://shdy5.us","playerType":2},
 {"key":"荐片","name":"🎬┃荐片┃影视","type":3,"api":"csp_Jianpian","ext":"https://api.ztcgi.com","playerType":2},
+{"key":"csp_Guazi","name":"🍉┃瓜子┃影视","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Guazi","jar":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/GZYS.png;md5;88cbe52257755e0025bc9e226a524309"},
 
 {"key":"橘汁","name":"橘汁影视[PY]","type":3,"api":"https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"},
 {"key":"剧下饭","name":"剧下饭影视[PY]","type":3,"api":"https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"},
