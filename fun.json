@@ -1,7 +1,7 @@
 {
 "spider":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;dbc93cb9a14cff520dc4f26e6eddb68c",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-"wallpaper":"https://饭的动态壁纸.xxooo.cf/","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+"wallpaper": "https://动态壁纸.饭.eu.org/",
 "lives":[
 
 {"name":"天美传媒816","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/fish2018/lib/main/txt/天美传媒816.txt","ua":"okhttp/3.15"},
