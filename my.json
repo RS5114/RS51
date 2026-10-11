@@ -44,9 +44,9 @@
 {"key":"青麦","name":"青麦","type":3,"api":"https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"},
 {"key":"歪比巴卜","name":"巴卜","type":3,"playerType":2,"api":"https://mpimg.cn/down.php/6f7f933b02ae7a30553c474642e92347.py"},
 
-{"key":"裤佬EmbyJS","name":"Emby","type":3,"api":"https://mpimg.cn/down.php/40d30fe3d9671e0d700f1c272bb20aaa.js","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"裤佬EmbyJS","name":"裤佬Emby","type":3,"api":"https://mpimg.cn/down.php/40d30fe3d9671e0d700f1c272bb20aaa.js","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"EmbyJS","name":"Emby","type":3,"api":"https://17264.kstore.space/Emby.js","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"裤佬央视PY","name":"丨央视丨","type":3,"api":"https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"裤佬央视PY","name":"裤佬央视","type":3,"api":"https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"裤佬七星短剧","name":"七星丨短剧","type":3,"api":"https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"耐看","name":"👀耐看┃","type":3,"api":"https://mpimg.cn/down.php/64822fa89d2b95024b3d621b379dc166.py"},
 
