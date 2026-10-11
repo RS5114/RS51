@@ -1,7 +1,7 @@
 {
-"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;dbc93cb9a14cff520dc4f26e6eddb68c",
+"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;b5d631708edaaa1c17eb955ecf1a3187",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-"wallpaper": "https://动态壁纸.饭.eu.org/",
+"wallpaper":"https://饭的动态壁纸.xxooo.cf/","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[
 {"name":"【CNB__自制】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/live.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【咪咕__直播】","type":0,"url":"https://gitiptv.feifanlib.shop","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
@@ -29,6 +29,19 @@
 {"key":"文才影视","name":"文才影视[PY]","type":3,"api":"https://fastlink.cokey.xyz/f/0LYlCj/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}},
 {"key":"耐看","name":"耐看影视[PY]","type":3,"api":"https://mpimg.cn/down.php/64822fa89d2b95024b3d621b379dc166.py"},
 {"key":"七猫","name":"七猫短剧[PY]","type":3,"api":"https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+{"key":"影探4K","name":"影探4K[PY]","type":3,"api":"https://meow.668yun.top/api/s/NR4CtxMmpYPj4nf1KkkhpDYaH0hX5nC3/影探4K.py"},
+{"key":"山有木兮","name":"山有木兮[PY]","type":3,"api":"https://fastlink.cokey.xyz/f/p6rZcj/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.py"},
+{"key":"4K影视一","name":"4K影视一[PY]","type":3,"api":"https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"},
+{"key":"4K影视二","name":"4K影视二[PY]","type":3,"api":"https://pan.29o.cn/down.php/58019eaac174bc33efa304e43e2898fb.py"},
+{"key":"4K影视三","name":"4K影视三[PY]","type":3,"api":"https://pan.szfx.top/down.php/0c67ff200a5ff8b2a2e95a14d3b80563.py"},
+{"key":"咕噜咕噜","name":"咕噜咕噜[PY]","type":3,"api":"https://mpimg.cn/down.php/2542f809bfd6602273ad747965ce77f9.py","searchable":1},
+{"key":"青麦影视","name":"青麦影视[PY]","type":3,"api":"https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"},
+{"key":"808影视","name":"808影视[PY]","type":3,"api":"https://pan.29o.cn/down.php/50044f29473ab3d13de5d21fdf224154.py"},
+{"key":"极影","name":"极影[JS]","type":3,"api":"https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyun2.qijiyun.vip/api.php/app/"},
+{"key":"华数影视","name":"华数影视[PY]","type":3,"api":"https://pan.29o.cn/down.php/10b39f7bc2521aea8a4a091a0d86e2da.py","changeable":1},
+{"key":"哔幕","name":"哔哩4K[PY]","type":3,"api":"https://meow.668yun.top/api/s/unDwdM3nZBachMqnrGmG3bQDcvsubkpb/哔哩影视.py"},
+{"key":"我的哔哩","name":"我的哔哩[PY]","type":3,"api":"https://meow.668yun.top/api/s/d26yObEbm8rr5LbHYgdJg2OsfmN3Skue/我的哔哩影视.py"},
+
 
 {"key":"MiFunPpy","name":"MiFun动漫py[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/MiFunP.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"aiguapy","name":"爱瓜TVpy[cluntop]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/aigua.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
