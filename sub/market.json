@@ -26,7 +26,7 @@
 ]},
 
 
-{"name":"蜂蜜播放插件","list":[
+{"name":"播放插件","list":[
 {"name":"python-arm64-v8a","url":"https://gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.0.4-arm64-v8a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"python-arm64-v8a"},
 {"name":"python-armeabi-v7a","url":"https://gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.0.4-armeabi-v7a.apk","icon":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"python-armeabi-v7a"},
 
