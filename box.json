@@ -1,7 +1,7 @@
 {
 "spider":"./sub/FM060923.png;md5;46da6b6a6a111d7924717db2ae790de3",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-"wallpaper": "https://动态壁纸.饭.eu.org/",
+"wallpaper":"https://动态壁纸.饭.eu.org/",
 "lives":[
 {"name":"【CNB__自制】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/live.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"【咪咕__直播】","type":0,"url":"https://gitiptv.feifanlib.shop","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
@@ -27,129 +27,97 @@
 {"key":"骚火","name":"🔥┃骚火┃影视","type":3,"api":"csp_SaoHuo","ext":"https://shdy5.us","playerType":2},
 {"key":"荐片","name":"🎬┃荐片┃影视","type":3,"api":"csp_Jianpian","ext":"https://api.ztcgi.com","playerType":2},
 
-  
-    {
-      "key": "AppV7Fz",
-      "name": "嗷呜①线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Fz",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "AppV7Xy",
-      "name": "嗷呜②线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Xy",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "AppV7Zjdr",
-      "name": "嗷呜③线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Zjdr",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "AppV7Xyz",
-      "name": "嗷呜④线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Xyz",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "AppV7Xnm",
-      "name": "嗷呜⑤线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Xnm",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "AppV7Mtq",
-      "name": "嗷呜⑥线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Mtq",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "AppV7Llq",
-      "name": "嗷呜⑦线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Llq",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "AppV7Xsz",
-      "name": "嗷呜⑧线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Xsz",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "AppV7Xhr",
-      "name": "嗷呜⑨线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Xhr",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "AppV7Dsx",
-      "name": "嗷呜⑩线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Dsx",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "Guazi",
-      "name": "嗷呜瓜子 ┃ 秒播",
-      "type": 3,
-      "api": "csp_GuaziAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "Guazi",
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-  
+
+{
+"key":"AppV7Fz",
+"name":"嗷呜①线┃秒播",
+"type":3,
+"api":"csp_AppV7Amns",
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"AppV7Fz",
+"jar":"https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
+},
+{
+"key":"AppV7Xy",
+"name":"嗷呜②线┃秒播",
+"type":3,
+"api":"csp_AppV7Amns",
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"AppV7Xy",
+"jar":"https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
+},
+{
+"key":"AppV7Zjdr",
+"name":"嗷呜③线┃秒播",
+"type":3,
+"api":"csp_AppV7Amns",
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"AppV7Zjdr",
+"jar":"https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
+},
+{
+"key":"AppV7Xyz",
+"name":"嗷呜④线┃秒播",
+"type":3,
+"api":"csp_AppV7Amns",
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"AppV7Xyz",
+"jar":"https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
+},
+{
+"key":"AppV7Mtq",
+"name":"嗷呜⑥线┃秒播",
+"type":3,
+"api":"csp_AppV7Amns",
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"AppV7Mtq",
+"jar":"https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
+},
+{
+"key":"AppV7Llq",
+"name":"嗷呜⑦线┃秒播",
+"type":3,
+"api":"csp_AppV7Amns",
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"AppV7Llq",
+"jar":"https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
+},
+{
+"key":"AppV7Xsz",
+"name":"嗷呜⑧线┃秒播",
+"type":3,
+"api":"csp_AppV7Amns",
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"AppV7Xsz",
+"jar":"https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
+},
+{
+"key":"AppV7Dsx",
+"name":"嗷呜⑩线┃秒播",
+"type":3,
+"api":"csp_AppV7Amns",
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"AppV7Dsx",
+"jar":"https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
+},
+
+
 {"key":"橘汁","name":"橘汁影视[PY]","type":3,"api":"https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"},
 {"key":"剧下饭","name":"剧下饭影视[PY]","type":3,"api":"https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"},
 {"key":"青麦","name":"青麦影视[PY]","type":3,"api":"https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"},
