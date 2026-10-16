@@ -27,8 +27,6 @@
 {"key":"骚火","name":"🔥┃骚火┃影视","type":3,"api":"csp_SaoHuo","ext":"https://shdy5.us","playerType":2},
 {"key":"荐片","name":"🎬┃荐片┃影视","type":3,"api":"csp_Jianpian","ext":"https://api.ztcgi.com","playerType":2},
 
-
-{"key":"极影","name":"极影[JS]","type":3,"api":"https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyun2.qijiyun.vip/api.php/app/"},
 {"key":"橘汁","name":"橘汁影视[PY]","type":3,"api":"https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"},
 {"key":"剧下饭","name":"剧下饭影视[PY]","type":3,"api":"https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"},
 {"key":"青麦","name":"青麦影视[PY]","type":3,"api":"https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"},
