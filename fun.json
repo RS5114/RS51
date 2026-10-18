@@ -1,7 +1,7 @@
 {
 "spider":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;b5d631708edaaa1c17eb955ecf1a3187",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-"wallpaper": "https://动态壁纸.饭.eu.org/",
+"wallpaper":"https://动态壁纸.饭.eu.org/",
 "lives":[
 
 {"name":"【CNB__自制】","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/1+8.txt","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"}
@@ -13,6 +13,7 @@
 {"key":"XMVideo","name":"熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./sub/182.jar;md5;4b13c299ed9dfca65bc775507a7d0118"},
 {"key":"apiyutu","name":"【9kg】玉兔资源","type":0,"api":"http://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
 
+{"key":"huangguo_fongmi","name":"黄果短剧[JS]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/jinshengchan/huangguo-fongmi/refs/heads/main/huangguo_fongmi.js","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 {"key":"py_huangguo2","name":"黄果剧场[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/黄果剧场.py","ext":""},
 {"key":"huangguo2","name":"黄果短剧2[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo2.py","ext":""},
 {"key":"py_huangdou","name":"黄豆短剧[py]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangdou.py","ext":""},
