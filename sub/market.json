@@ -1,9 +1,11 @@
 [
 {"name":"推荐","list":[
-{"name":"FM电视-arm","url":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
-{"name":"FM手机-arm","url":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-armeabi_v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
+{"name":"电视-armeabi","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/5.7.7/leanback-armeabi_v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
+{"name":"手机-armeabi","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/5.7.7/mobile-armeabi_v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
+
 {"name":"TVBox-jav","url":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-java.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"jav"},
 {"name":"TVBox-jav32","url":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-java32.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"jav32"},
+
 {"name":"TVBox-py","url":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-python.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"py"},
 {"name":"TVBox-py32","url":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-python32.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"py32"}
 
@@ -12,8 +14,10 @@
 {"name":"蜂蜜影视","list":[
 {"name":"电视-armeabi","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/5.7.7/leanback-armeabi_v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
 {"name":"电视-arm64","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/5.7.7/leanback-arm64_v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v8a"},
+
 {"name":"手机-armeabi","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/5.7.7/mobile-armeabi_v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v7a"},
 {"name":"手机-arm64","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/5.7.7/mobile-arm64_v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm.png","version":"v8a"}
+
 ]},
 
 {"name":"TVBox","list":[
@@ -27,24 +31,23 @@
 
 
 {"name":"播放插件","list":[
-{"name":"PYthon-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.0.4-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
-{"name":"PYthon-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.0.4-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
+{"name":"PYthon-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.0.5-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
+{"name":"PYthon-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.0.5-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
 
-{"name":"NOdejs-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-nodejs-1.0.2-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
-{"name":"NOdejs-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-nodejs-1.0.2-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
+{"name":"NOdejs-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-nodejs-1.0.3-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
+{"name":"NOdejs-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-nodejs-1.0.3-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
 
-{"name":"QUickjs-arm64-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-quickjs-1.0.2-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
-{"name":"QUickjs-armeabi-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-quickjs-1.0.2-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
+{"name":"QUickjs-arm64-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-quickjs-1.0.3-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
+{"name":"QUickjs-armeabi-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-quickjs-1.0.3-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
 
-
-{"name":"THunder-arm64-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-thunder-1.0.2-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
-{"name":"THunder-armeabi-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-thunder-1.0.2-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
+{"name":"THunder-arm64-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-thunder-1.0.3-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
+{"name":"THunder-armeabi-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-thunder-1.0.3-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
 
 {"name":"BDJ-arm64-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-bdj-1.0.1-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
 {"name":"BDJ-armeabi-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-bdj-1.0.1-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
 
-{"name":"MPV-arm64-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-mpv-1.0.2-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
-{"name":"MPV-armeabi-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-mpv-1.0.2-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"}
+{"name":"MPV-arm64-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-mpv-1.0.3-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
+{"name":"MPV-armeabi-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-mpv-1.0.3-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"}
 
 ]}
 
