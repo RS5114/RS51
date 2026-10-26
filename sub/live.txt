@@ -27,6 +27,7 @@ CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
 广东珠江,http://74.91.26.218:82/live/gdzj.m3u8
+重庆卫视,http://74.91.26.218:82/live/cqwshd.m3u8
 
 
 📺央卫IPTV-四川👉,#genre#
