@@ -31,8 +31,8 @@
 
 
 {"name":"播放插件","list":[
-{"name":"PYthon-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.0.12-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
-{"name":"PYthon-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.0.12-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
+{"name":"PYthon-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.1.2-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
+{"name":"PYthon-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.1.2-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
 
 {"name":"NOdejs-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-nodejs-1.0.6-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
 {"name":"NOdejs-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-nodejs-1.0.6-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
