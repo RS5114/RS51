@@ -30,6 +30,10 @@
 {"name":"海信专版","url":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/%E5%BD%B1%E8%A7%86/OK%E5%BD%B1%E8%A7%86/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88-OK%E5%BD%B1%E8%A7%86-5.1.6.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/fm1.png","version":"海信专版"}
 ]},
 
+{"name":"安卓4.0","list":[
+{"name":"影视仓V3","url":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/youhunwl/TVAPP/main/%E5%BD%B1%E8%A7%86/%E5%BD%B1%E8%A7%86%E4%BB%93/%E5%BD%B1%E8%A7%86%E4%BB%93V3%E7%A8%B3%E5%AE%9A%E7%89%88-3.0.36_%E5%85%BC%E5%AE%B9%E5%AE%89%E5%8D%934.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/TVBox.png","version":"影视仓"}
+]},
+
 {"name":"播放插件","list":[
 {"name":"PYthon-v8a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.1.2-arm64-v8a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v8a"},
 {"name":"PYthon-v7a","url":"https://v4.gh-proxy.org/https://github.com/FongMi/Release/releases/download/module/runtime-python-1.1.2-armeabi-v7a.apk","icon":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/plugin.png","version":"v7a"},
