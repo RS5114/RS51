@@ -13,7 +13,7 @@
 {"key":"XMVideo","name":"熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./sub/182.jar;md5;4b13c299ed9dfca65bc775507a7d0118"},
 {"key":"apiyutu","name":"【9kg】玉兔资源","type":0,"api":"http://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
 
-{"key":"huangguo0","name":"黄果短剧1[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/huangguo.py","ext":""},
+{"key":"huangguo0","name":"黄果短剧1[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/huangguo.py"},
 {"key":"hgdj","name":"黄果短剧2[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/hgdj.py"},
 {"key":"yeguo","name":"野果短剧[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/yeguo.py"},
 {"key":"91dj","name":"91短剧[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/91dj.py"},
@@ -26,16 +26,16 @@
 {"key":"hsck","name":"黄色仓库动态版[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/hsck.py"},
 {"key":"hsck1","name":"黄色仓库[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/hsck1.py"},
 
-{"key":"huangguo1","name":"黄果短剧1[1405665226]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/1405665226/tvbox/main/py/huangguo.py","ext":""},
+{"key":"huangguo1","name":"黄果短剧1[1405665226]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/1405665226/tvbox/main/py/huangguo.py"},
   
-{"key":"huangguo2","name":"黄果短剧2[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo.py","ext":""},
-{"key":"huangguo3","name":"黄果短剧3[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo2.py","ext":""},
+{"key":"huangguo2","name":"黄果短剧2[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo.py"},
+{"key":"huangguo3","name":"黄果短剧3[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo2.py"},
 {"key":"xigua51","name":"西瓜51[cluntop]","type":3,"filterable":0,"changeable":0,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/xigua51.py"},
-{"key":"py_huangdou","name":"黄豆短剧[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangdou.py","ext":""},
-{"key":"py_rolizxwnoble","name":"乱伦仓库[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/rolizxwnoble.py","ext":""},
-{"key":"py_shaofu36","name":"少妇喝了[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/shaofu36.py","ext":""},
-{"key":"py_ybhz51","name":"玉蚌含珠[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/ybhz51.py","ext":""},
-{"key":"py_owoav","name":"owoav[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/owoav.py","ext":""},
+{"key":"py_huangdou","name":"黄豆短剧[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangdou.py"},
+{"key":"py_rolizxwnoble","name":"乱伦仓库[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/rolizxwnoble.py"},
+{"key":"py_shaofu36","name":"少妇喝了[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/shaofu36.py"},
+{"key":"py_ybhz51","name":"玉蚌含珠[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/ybhz51.py"},
+{"key":"py_owoav","name":"owoav[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/owoav.py"},
 {"key":"女优色库","name":"女优色库[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/女优色库.py"},
 
 {"key":"美少女","name":"美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1},
