@@ -26,10 +26,10 @@
 {"key":"hsck","name":"黄色仓库动态版","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/hsck.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"hsck1","name":"黄色仓库","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/hsck1.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
-
-{"key":"huangguo0","name":"黄果短剧1[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/1405665226/tvbox/main/py/huangguo.py","ext":""},
-{"key":"huangguo1","name":"黄果短剧2[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo.py","ext":""},
-{"key":"huangguo2","name":"黄果短剧3[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo2.py","ext":""},
+{"key":"huangguo0","name":"黄果短剧0[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/huangguo.py","ext":""},
+{"key":"huangguo1","name":"黄果短剧1[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/1405665226/tvbox/main/py/huangguo.py","ext":""},
+{"key":"huangguo2","name":"黄果短剧2[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo.py","ext":""},
+{"key":"huangguo3","name":"黄果短剧3[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo2.py","ext":""},
 
 
 {"key":"xigua51","name":"西瓜51[py]","type":3,"filterable":0,"changeable":0,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/xigua51.py"},
