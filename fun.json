@@ -13,7 +13,6 @@
 {"key":"XMVideo","name":"熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./sub/182.jar;md5;4b13c299ed9dfca65bc775507a7d0118"},
 {"key":"apiyutu","name":"【9kg】玉兔资源","type":0,"api":"http://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
 
-
 {"key":"huangguo0","name":"黄果短剧1[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/huangguo.py","ext":""},
 {"key":"hgdj","name":"黄果短剧2[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/hgdj.py"},
 {"key":"yeguo","name":"野果短剧[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/yeguo.py"},
@@ -37,7 +36,7 @@
 {"key":"py_shaofu36","name":"少妇喝了[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/shaofu36.py","ext":""},
 {"key":"py_ybhz51","name":"玉蚌含珠[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/ybhz51.py","ext":""},
 {"key":"py_owoav","name":"owoav[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/owoav.py","ext":""},
-{"key":"女优色库","name":"女优色库[py]","type":3,"filterable":0,"changeable":0,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/女优色库.py"},
+{"key":"女优色库","name":"女优色库[py]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/女优色库.py"},
 
 {"key":"美少女","name":"美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"AV资源","name":"AV|采集","type":1,"api":"https://api.souavzy.vip/api.php/provide/vod/at/json","searchable":1,"style":{"type":"rect","ratio":1.33},"changeable":1},
@@ -47,7 +46,7 @@
 {"key":"淫水机资源站","name":"水机|采集","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0,"ext":"proxy"},
 {"key":"香奶儿资源站","name":"香奶|采集","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0,"ext":"proxy"},
 {"key":"白嫖","name":"白嫖|采集","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"ext":"proxy"},
-{"key":"大地","name":"大地|采集","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=","searchable":1,"quickSearch":1,"filterable":0,"ext":"proxy"},
+{"key":"大地","name":"大地|采集","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=","ext":"proxy"},
 {"key":"番号","name":"番号|采集","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"ext":"proxy"},
 {"key":"美少女","name":"少女|采集","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"ext":"proxy"},
 {"key":"小湿妹","name":"湿妹|采集","type":0,"api":"http://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"ext":"proxy"},
