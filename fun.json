@@ -14,7 +14,7 @@
 {"key":"apiyutu","name":"【9kg】玉兔资源","type":0,"api":"http://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
 
 
-{"key":"hgdj","name":"黄果短剧","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/hgdj.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"hgdj","name":"黄果短剧","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/hgdj.py"},
 {"key":"yeguo","name":"野果短剧","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/yeguo.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"91dj","name":"91短剧","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/91dj.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"51dj","name":"51短剧","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/51dj.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
