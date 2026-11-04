@@ -13,7 +13,6 @@
 {"key":"XMVideo","name":"熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./sub/182.jar;md5;4b13c299ed9dfca65bc775507a7d0118"},
 {"key":"apiyutu","name":"【9kg】玉兔资源","type":0,"api":"http://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
 
-{"key":"未来影院.py","name":"未来影院[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/未来影院.py"},
 {"key":"66在线.py","name":"66在线[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/66在线.py"},
 {"key":"ASMR吧.py","name":"ASMR吧[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/ASMR吧.py"},
 {"key":"爱看去广告.py","name":"爱看去广告[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/爱看去广告.py"},
