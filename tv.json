@@ -19,11 +19,9 @@
 "sites":[
 {"key":"豆瓣","name":"🐼豆瓣🐼","type":3,"api":"csp_Douban","searchable":0,"jar":"./sub/FM060923.png;md5;46da6b6a6a111d7924717db2ae790de3"},
 
-{"key":"央库云.py","name":"央库云.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央库云.py"},
-{"key":"央视.py","name":"央视.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视.py"},
-{"key":"央视频.py","name":"央视频.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视频.py"},
-{"key":"央视网.py","name":"央视网.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视网.py"},
-{"key":"央视综合.py","name":"央视综合.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视综合.py"},
+
+{"key":"央视频.py","name":"电视直播[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视频.py"},
+{"key":"央视网.py","name":"央视网直播.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视网.py"},
 
 {"key":"bubuzhuiju.py","name":"bubuzhuiju.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/bubuzhuiju.py"},
 {"key":"cctv.py","name":"cctv.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/cctv.py"},
