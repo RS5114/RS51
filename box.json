@@ -19,8 +19,6 @@
 
 "sites":[
 {"key":"豆瓣","name":"🐼豆瓣🐼","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆花v2.py","name":"🐼豆瓣🐼[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/豆花v2.py"},
-{"key":"豆花影视.py","name":"豆花影视[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/豆花影视.py"},
 
 {"key":"金牌","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpys","ext":"https://y2s52n7.com","playerType":2},
 {"key":"光盘","name":"📀┃光盘┃APP","type":3,"api":"csp_AppQi","ext":"http://103.217.190.91:5566|hagYExMdMkeWfemK","playerType":2},
@@ -39,6 +37,8 @@
 {"key":"央视频.py","name":"电视直播[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视频.py"},
 {"key":"央视网.py","name":"央视网直播.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视网.py"},
 
+{"key":"souju.py","name":"搜剧AI[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/souju.py"},
+{"key":"豆花影视.py","name":"豆花影视[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/豆花影视.py"},
 {"key":"金牌.py","name":"金牌影视[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/金牌.py"},
 {"key":"金牌APP.py","name":"金牌APP[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/金牌APP.py"},
 {"key":"bubuzhuiju.py","name":"布布追剧[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/bubuzhuiju.py"},
@@ -132,7 +132,6 @@
 {"key":"周六影库.py","name":"周六影库[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/周六影库.py"},
 {"key":"追光影视.py","name":"追光影视[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/追光影视.py"},
 {"key":"追剧达人.py","name":"追剧达人[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/追剧达人.py"},
-{"key":"souju.py","name":"搜剧AI[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/souju.py"},
 
 
 {"key":"goldmedalpy","name":"金牌影视py[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/goldmedal.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
