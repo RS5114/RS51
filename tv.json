@@ -22,12 +22,11 @@
 
 {"key":"央视频.py","name":"电视直播[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视频.py"},
 {"key":"央视网.py","name":"央视网直播.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视网.py"},
+{"key":"douban.py","name":"豆瓣[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/douban.py"},
 
-{"key":"bubuzhuiju.py","name":"bubuzhuiju.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/bubuzhuiju.py"},
-{"key":"cctv.py","name":"cctv.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/cctv.py"},
-{"key":"dianyingmifeng.py","name":"dianyingmifeng.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/dianyingmifeng.py"},
-{"key":"douhua_v2.py","name":"douhua_v2.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/douhua_v2.py"},
-{"key":"douban.py","name":"douban.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/douban.py"},
+{"key":"bubuzhuiju.py","name":"布布追剧[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/bubuzhuiju.py"},
+{"key":"dianyingmifeng.py","name":"蜜蜂影视蜘蛛版[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/dianyingmifeng.py"},
+{"key":"douhua_v2.py","name":"豆花电影[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/douhua_v2.py"},
 {"key":"dsystv.py","name":"dsystv.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/dsystv.py"},
 {"key":"duoduo.py","name":"duoduo.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/duoduo.py"},
 {"key":"dyrs_v3.py","name":"dyrs_v3.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/dyrs_v3.py"},
