@@ -1,6 +1,5 @@
 {
-//"spider":"./sub/FM060923.png;md5;46da6b6a6a111d7924717db2ae790de3",
-"spider":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/jar/xs.jar",
+"spider":"./sub/FM060923.png;md5;46da6b6a6a111d7924717db2ae790de3",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "wallpaper":"https://动态壁纸.饭.eu.org/",
 "lives":[
@@ -20,7 +19,6 @@
 
 "sites":[
 {"key":"豆瓣","name":"🐼豆瓣🐼","type":3,"api":"csp_Douban","searchable":0},
-{"key":"py_douban","name":"豆瓣","type":3,"api":"https://cdn.jsdelivr.net/gh/y249376764/yangmi2026@main/py/豆瓣影视.py","changeable":0,"searchable":0,"filterable":0},
 {"key":"央视频.py","name":"电视直播[yangmi2026]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视频.py"},
 {"key":"央视网.py","name":"央视网直播[yangmi2026]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视网.py"},
 
