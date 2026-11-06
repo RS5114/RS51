@@ -18,6 +18,7 @@
 
 "sites":[
 {"key":"豆瓣","name":"🐼豆瓣🐼","type":3,"api":"csp_Douban","searchable":0},
+{"key":"souju.py","name":"搜剧AI[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/souju.py"},
 {"key":"央视频.py","name":"电视直播[yangmi2026]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视频.py"},
 {"key":"央视网.py","name":"央视网直播[yangmi2026]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视网.py"},
 
@@ -50,7 +51,6 @@
 {"key":"pywx_v2.py","name":"玄武影视[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/pywx_v2.py"},
 {"key":"qiankan_v2.py","name":"全看网[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/qiankan_v2.py"},
 {"key":"qiyoudy.py","name":"奇优影院[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/qiyoudy.py"},
-{"key":"souju.py","name":"搜剧AI[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/souju.py"},
 {"key":"tiantang.py","name":"天堂影视[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/tiantang.py"},
 {"key":"VS影院.py","name":"VS影院[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/VS影院.py"},
 {"key":"wangfei.py","name":"Wangfei[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/wangfei.py"},
