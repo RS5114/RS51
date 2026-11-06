@@ -180,13 +180,11 @@
 {"key":"tyyszyapi.com","name":"🌼天涯┃资源🌼","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"wsyzy.net","name":"🌼无水印┃资源🌼","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
-
 {"key":"本地","name":"🌸本地｜视频","type":3,"api":"csp_LocalFile"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/RS5114/RS51/main/sub/market.json"},
 
 {"key":"push_agent","name":"🛒推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
-
 
 "parses":[],
 "flags":[],
