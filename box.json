@@ -17,7 +17,9 @@
 ],
 
 "sites":[
-{"key":"豆瓣","name":"🐼豆瓣🐼","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣","name":"🐼┃豆瓣┃搜索","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣预告","name":"🐼┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
+
 {"key":"央视频.py","name":"电视直播[yangmi2026]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视频.py"},
 {"key":"央视网.py","name":"央视网直播[yangmi2026]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视网.py"},
 
