@@ -1,6 +1,6 @@
 {
 "spider":"./sub/FM261107.png;md5;6a396033ae45efee57ba789f91d7123e",
-"spider":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;efce6ba8d62a1bb6097a382de5d93630",
+//"spider":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;efce6ba8d62a1bb6097a382de5d93630",
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "wallpaper":"https://动态壁纸.饭.eu.org/",
 "lives":[
