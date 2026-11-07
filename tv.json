@@ -18,8 +18,7 @@
 ],
 
 "sites":[
-{"key":"豆瓣","name":"🐼┃豆瓣┃搜索","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣预告","name":"🐼┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
+{"key":"豆瓣","name":"🐼┃豆瓣","type":3,"api":"csp_Douban","searchable":0},
 
 {"key":"潮流","name":"🏜┃潮流┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn"},
 {"key":"干饭","name":"🍚┃干饭┃APP","type":3,"api":"csp_AppDrama2","ext":{"appName":"小苹果","publicKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB","dataKey":"S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==","dataIv":"OC1A06E197EF10CF3F6058CA7A803B5E","pkg":"com.juechufsh.android.xpg1","host":"","site":"https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt","version":"1.0.0.3","decrypt":"0"}},
