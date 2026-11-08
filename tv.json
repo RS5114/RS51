@@ -32,7 +32,6 @@
 {"key":"骚火","name":"🔥┃骚火┃影视","type":3,"api":"csp_SaoHuo","ext":"https://shdy5.us"},
 {"key":"荐片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"https://api.ztcgi.com"},
 {"key":"csp_Gz360","name":"🍉┃瓜子┃影视","type":3,"api":"csp_Gz360","playerType":2},
-{"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_SP360"},
 
 {"key":"央视频.py","name":"电视直播[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视频.py"},
 {"key":"央视网.py","name":"央视网直播.py[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/央视网.py"},
