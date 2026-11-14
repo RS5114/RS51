@@ -29,6 +29,7 @@
 {"key":"csp_Gz360","name":"🍉┃瓜子┃影视","type":3,"api":"csp_Gz360","playerType":2},
 {"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_SP360"},
 
+{"key":"红果短剧.py","name":"红果短剧[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/红果短剧.py"},
 {"key":"橘汁","name":"橘汁影视[PY]","type":3,"api":"https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"},
 {"key":"剧下饭","name":"剧下饭影视[PY]","type":3,"api":"https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"},
 {"key":"布布","name":"布布影视[PY]","type":3,"api":"https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py","style":{"type":"rect","ratio":1.33},"changeable":1},
