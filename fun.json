@@ -12,13 +12,6 @@
 
 {"key":"XMVideo","name":"熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./sub/182.jar;md5;4b13c299ed9dfca65bc775507a7d0118"},
 {"key":"apiyutu","name":"【9kg】玉兔资源","type":0,"api":"http://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":1},
-
-{"key":"66在线.py","name":"66在线[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/66在线.py"},
-{"key":"ASMR吧.py","name":"ASMR吧[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/ASMR吧.py"},
-{"key":"爱看去广告.py","name":"爱看去广告[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/爱看去广告.py"},
-{"key":"九合一.py","name":"九合一[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/九合一.py"},
-{"key":"苹果视频.py","name":"苹果视频[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/苹果视频.py"},
-
 {"key":"hgdj","name":"黄果短剧[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/hgdj.py"},
 {"key":"yeguo","name":"野果短剧[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/yeguo.py"},
 {"key":"91dj","name":"91短剧[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/91dj.py"},
@@ -27,6 +20,11 @@
 {"key":"2048dj","name":"2048短剧[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/2048dj.py"},
 {"key":"hsck","name":"黄色仓库动态版[pqq234]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/pqq234/11/main/hsck.py"},
 
+{"key":"66在线.py","name":"66在线[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/66在线.py"},
+{"key":"ASMR吧.py","name":"ASMR吧[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/ASMR吧.py"},
+{"key":"爱看去广告.py","name":"爱看去广告[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/爱看去广告.py"},
+{"key":"九合一.py","name":"九合一[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/九合一.py"},
+{"key":"苹果视频.py","name":"苹果视频[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/苹果视频.py"},
 
 {"key":"huangguo3","name":"黄果短剧[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/huangguo2.py"},
 {"key":"xigua51","name":"西瓜51[cluntop]","type":3,"filterable":0,"changeable":0,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/xigua51.py"},
