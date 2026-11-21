@@ -114,6 +114,10 @@
 {"key":"云朵视频.py","name":"云朵视频[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/云朵视频.py"},
 {"key":"追光影视.py","name":"追光影视[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/追光影视.py"},
 {"key":"追剧达人.py","name":"追剧达人[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/追剧达人.py"},
+{"key":"conv_BVjuyuan.py","name":"BV剧院[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/conv_BVjuyuan.py"},
+{"key":"conv_DongmanBashi.py","name":"动漫巴士[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/conv_DongmanBashi.py"},
+{"key":"conv_DuoduoYingshi.py","name":"多多影视[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/conv_DuoduoYingshi.py"},
+{"key":"conv_Fandazi.py","name":"饭搭子影[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/conv_Fandazi.py"},
 
 {"key":"goldmedalpy","name":"金牌影视py[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/goldmedal.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 {"key":"aiguapy","name":"爱瓜TVpy[cluntop]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/main/py/aigua.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
