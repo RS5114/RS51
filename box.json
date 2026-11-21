@@ -18,7 +18,6 @@
 
 "sites":[
 {"key":"豆瓣","name":"🐼┃豆瓣┃搜索","type":3,"api":"csp_Douban","searchable":0},
-{"key":"红果短剧.py","name":"红果短剧[y249376764]","type":3,"api":"https://v4.gh-proxy.org/https://raw.githubusercontent.com/y249376764/yangmi2026/main/py/红果短剧.py"},
 
 {"key":"金牌","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpys","ext":"https://y2s52n7.com","playerType":2},
 {"key":"光盘","name":"📀┃光盘┃APP","type":3,"api":"csp_AppQi","ext":"http://103.217.190.91:5566|hagYExMdMkeWfemK","playerType":2},
